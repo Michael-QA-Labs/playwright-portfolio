@@ -74,4 +74,4 @@ Run headless:
 
 Michael Garcia — QA Engineer
 GitHub: https://github.com/Michael-QA-Labs
-LinkedIn: https://www.linkedin.com/in/your-profile
+LinkedIn: https://www.linkedin.com/in/michael-garcia03/
